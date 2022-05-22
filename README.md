@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amr Hassan</h1>
-<h3 align="center">A passionate Front-End Developer from Egypt</h3>
+<h3 align="center">A passionate Full-Stack Developer from Egypt</h3>
 
 - 🔭 I’m currently working on [My-Portfolio](https://amrhassanz.github.io/My-Portfolio/)
 
